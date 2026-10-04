@@ -1,0 +1,266 @@
+.:
+total 40
+drwxrwxr-x 10 hussein hussein 4096 Oct  4 04:39 .
+drwx------ 22 hussein hussein 4096 Oct  4 04:41 ..
+drwxrwxr-x  2 hussein hussein 4096 Sep 30 16:54 archives
+drwxrwxr-x  2 hussein hussein 4096 Sep 30 17:01 ex00
+drwxrwxr-x  2 hussein hussein 4096 Oct  4 04:15 ex01
+drwxrwxr-x  2 hussein hussein 4096 Oct  4 04:41 ex02
+drwxrwxr-x  2 hussein hussein 4096 Oct  4 04:39 ex03
+drwxrwxr-x  7 hussein hussein 4096 Oct  4 04:45 .git
+drwxrwxr-x  3 hussein hussein 4096 Sep 30 16:54 projects
+drwxrwxr-x  2 hussein hussein 4096 Sep 30 16:54 tools
+
+./archives:
+total 8
+drwxrwxr-x  2 hussein hussein 4096 Sep 30 16:54 .
+drwxrwxr-x 10 hussein hussein 4096 Oct  4 04:39 ..
+
+./ex00:
+total 8
+drwxrwxr-x  2 hussein hussein 4096 Sep 30 17:01 .
+drwxrwxr-x 10 hussein hussein 4096 Oct  4 04:39 ..
+-rw-rw-r--  1 hussein hussein    0 Oct  4 04:46 tree_structure.txt
+
+./ex01:
+total 24
+drwxrwxr-x  2 hussein hussein 4096 Oct  4 04:15 .
+drwxrwxr-x 10 hussein hussein 4096 Oct  4 04:39 ..
+-rw-rw-r--  1 hussein hussein   47 Oct  4 04:15 draft.txt
+-rw-rw-r--  1 hussein hussein   47 Oct  4 04:15 final_report.txt
+-rwxrwxr-x  1 hussein hussein  218 Oct  4 04:12 manage_files.sh
+-rw-rw-r--  1 hussein hussein   47 Oct  4 04:15 run_log.txt
+
+./ex02:
+total 20
+drwxrwxr-x  2 hussein hussein 4096 Oct  4 04:41 .
+drwxrwxr-x 10 hussein hussein 4096 Oct  4 04:39 ..
+-rw-rw-r--  1 hussein hussein  329 Oct  1 07:28 git_log.txt
+-rw-rw-r--  1 hussein hussein   13 Oct  1 06:45 hello.txt
+-rw-rw-r--  1 hussein hussein   60 Oct  1 07:27 repo_url.txt
+
+./ex03:
+total 20
+drwxrwxr-x  2 hussein hussein 4096 Oct  4 04:39 .
+drwxrwxr-x 10 hussein hussein 4096 Oct  4 04:39 ..
+-rw-rw-r--  1 hussein hussein  204 Oct  4 04:25 git_workflow.txt
+-rw-rw-r--  1 hussein hussein   99 Oct  3 15:12 id_ed25519_pub.txt
+-rw-rw-r--  1 hussein hussein 2746 Oct  3 14:14 README.md
+
+./.git:
+total 48
+drwxrwxr-x  7 hussein hussein 4096 Oct  4 04:45 .
+drwxrwxr-x 10 hussein hussein 4096 Oct  4 04:39 ..
+-rw-rw-r--  1 hussein hussein   31 Oct  4 04:37 COMMIT_EDITMSG
+-rw-rw-r--  1 hussein hussein  281 Oct  3 15:15 config
+-rw-rw-r--  1 hussein hussein   73 Oct  3 14:23 description
+-rw-rw-r--  1 hussein hussein   21 Oct  3 14:25 HEAD
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 14:23 hooks
+-rw-rw-r--  1 hussein hussein  305 Oct  4 04:37 index
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 14:23 info
+drwxrwxr-x  3 hussein hussein 4096 Oct  3 14:27 logs
+drwxrwxr-x 14 hussein hussein 4096 Oct  4 04:37 objects
+drwxrwxr-x  5 hussein hussein 4096 Oct  3 15:15 refs
+
+./.git/hooks:
+total 72
+drwxrwxr-x 2 hussein hussein 4096 Oct  3 14:23 .
+drwxrwxr-x 7 hussein hussein 4096 Oct  4 04:45 ..
+-rwxrwxr-x 1 hussein hussein  478 Oct  3 14:23 applypatch-msg.sample
+-rwxrwxr-x 1 hussein hussein  896 Oct  3 14:23 commit-msg.sample
+-rwxrwxr-x 1 hussein hussein 4726 Oct  3 14:23 fsmonitor-watchman.sample
+-rwxrwxr-x 1 hussein hussein  189 Oct  3 14:23 post-update.sample
+-rwxrwxr-x 1 hussein hussein  424 Oct  3 14:23 pre-applypatch.sample
+-rwxrwxr-x 1 hussein hussein 1649 Oct  3 14:23 pre-commit.sample
+-rwxrwxr-x 1 hussein hussein  416 Oct  3 14:23 pre-merge-commit.sample
+-rwxrwxr-x 1 hussein hussein 1492 Oct  3 14:23 prepare-commit-msg.sample
+-rwxrwxr-x 1 hussein hussein 1374 Oct  3 14:23 pre-push.sample
+-rwxrwxr-x 1 hussein hussein 4898 Oct  3 14:23 pre-rebase.sample
+-rwxrwxr-x 1 hussein hussein  544 Oct  3 14:23 pre-receive.sample
+-rwxrwxr-x 1 hussein hussein 2783 Oct  3 14:23 push-to-checkout.sample
+-rwxrwxr-x 1 hussein hussein 2308 Oct  3 14:23 sendemail-validate.sample
+-rwxrwxr-x 1 hussein hussein 3650 Oct  3 14:23 update.sample
+
+./.git/info:
+total 12
+drwxrwxr-x 2 hussein hussein 4096 Oct  3 14:23 .
+drwxrwxr-x 7 hussein hussein 4096 Oct  4 04:45 ..
+-rw-rw-r-- 1 hussein hussein  240 Oct  3 14:23 exclude
+
+./.git/logs:
+total 16
+drwxrwxr-x 3 hussein hussein 4096 Oct  3 14:27 .
+drwxrwxr-x 7 hussein hussein 4096 Oct  4 04:45 ..
+-rw-rw-r-- 1 hussein hussein  549 Oct  4 04:37 HEAD
+drwxrwxr-x 4 hussein hussein 4096 Oct  3 15:15 refs
+
+./.git/logs/refs:
+total 16
+drwxrwxr-x 4 hussein hussein 4096 Oct  3 15:15 .
+drwxrwxr-x 3 hussein hussein 4096 Oct  3 14:27 ..
+drwxrwxr-x 2 hussein hussein 4096 Oct  3 14:27 heads
+drwxrwxr-x 3 hussein hussein 4096 Oct  3 15:15 remotes
+
+./.git/logs/refs/heads:
+total 12
+drwxrwxr-x 2 hussein hussein 4096 Oct  3 14:27 .
+drwxrwxr-x 4 hussein hussein 4096 Oct  3 15:15 ..
+-rw-rw-r-- 1 hussein hussein  549 Oct  4 04:37 main
+
+./.git/logs/refs/remotes:
+total 12
+drwxrwxr-x 3 hussein hussein 4096 Oct  3 15:15 .
+drwxrwxr-x 4 hussein hussein 4096 Oct  3 15:15 ..
+drwxrwxr-x 2 hussein hussein 4096 Oct  3 15:15 origin
+
+./.git/logs/refs/remotes/origin:
+total 12
+drwxrwxr-x 2 hussein hussein 4096 Oct  3 15:15 .
+drwxrwxr-x 3 hussein hussein 4096 Oct  3 15:15 ..
+-rw-rw-r-- 1 hussein hussein  318 Oct  4 04:37 main
+
+./.git/objects:
+total 56
+drwxrwxr-x 14 hussein hussein 4096 Oct  4 04:37 .
+drwxrwxr-x  7 hussein hussein 4096 Oct  4 04:45 ..
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 14:27 05
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 14:27 1c
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 15:13 2b
+drwxrwxr-x  2 hussein hussein 4096 Oct  4 04:36 43
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 14:25 4e
+drwxrwxr-x  2 hussein hussein 4096 Oct  4 04:37 56
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 15:13 5a
+drwxrwxr-x  2 hussein hussein 4096 Oct  4 04:37 c3
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 14:25 e6
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 15:13 f1
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 14:23 info
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 14:23 pack
+
+./.git/objects/05:
+total 12
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 14:27 .
+drwxrwxr-x 14 hussein hussein 4096 Oct  4 04:37 ..
+-r--r--r--  1 hussein hussein  113 Oct  3 14:27 90817b767f46e04f60fa99c2e48afbb82a7feb
+
+./.git/objects/1c:
+total 12
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 14:27 .
+drwxrwxr-x 14 hussein hussein 4096 Oct  4 04:37 ..
+-r--r--r--  1 hussein hussein  143 Oct  3 14:27 803ca07cd6146fd567f1b2182974b9f44afa12
+
+./.git/objects/2b:
+total 12
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 15:13 .
+drwxrwxr-x 14 hussein hussein 4096 Oct  4 04:37 ..
+-r--r--r--  1 hussein hussein  111 Oct  3 15:13 29b5f9dd28f2d3701c0a133f8eda72a14fd4f0
+
+./.git/objects/43:
+total 12
+drwxrwxr-x  2 hussein hussein 4096 Oct  4 04:36 .
+drwxrwxr-x 14 hussein hussein 4096 Oct  4 04:37 ..
+-r--r--r--  1 hussein hussein  152 Oct  4 04:36 2e1a4c28e1f536718d414be661f0492fd0d551
+
+./.git/objects/4e:
+total 12
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 14:25 .
+drwxrwxr-x 14 hussein hussein 4096 Oct  4 04:37 ..
+-r--r--r--  1 hussein hussein 1283 Oct  3 14:25 4513bf329aa539b65e17a865833bb09b2bf75e
+
+./.git/objects/56:
+total 12
+drwxrwxr-x  2 hussein hussein 4096 Oct  4 04:37 .
+drwxrwxr-x 14 hussein hussein 4096 Oct  4 04:37 ..
+-r--r--r--  1 hussein hussein  134 Oct  4 04:37 2965265dc06c1c4df114a2461a3d48991de3ed
+
+./.git/objects/5a:
+total 12
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 15:13 .
+drwxrwxr-x 14 hussein hussein 4096 Oct  4 04:37 ..
+-r--r--r--  1 hussein hussein  176 Oct  3 15:13 8f6a0bba5a84a571f679f2b615ead1e00b469c
+
+./.git/objects/c3:
+total 12
+drwxrwxr-x  2 hussein hussein 4096 Oct  4 04:37 .
+drwxrwxr-x 14 hussein hussein 4096 Oct  4 04:37 ..
+-r--r--r--  1 hussein hussein  181 Oct  4 04:37 a79c8af50c42f8c5b0e9c4580411975ba023f0
+
+./.git/objects/e6:
+total 12
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 14:25 .
+drwxrwxr-x 14 hussein hussein 4096 Oct  4 04:37 ..
+-r--r--r--  1 hussein hussein   15 Oct  3 14:25 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+
+./.git/objects/f1:
+total 12
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 15:13 .
+drwxrwxr-x 14 hussein hussein 4096 Oct  4 04:37 ..
+-r--r--r--  1 hussein hussein  134 Oct  3 15:13 41cd9f4f8890259d0912e996f5edcd4acbcf10
+
+./.git/objects/info:
+total 8
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 14:23 .
+drwxrwxr-x 14 hussein hussein 4096 Oct  4 04:37 ..
+
+./.git/objects/pack:
+total 8
+drwxrwxr-x  2 hussein hussein 4096 Oct  3 14:23 .
+drwxrwxr-x 14 hussein hussein 4096 Oct  4 04:37 ..
+
+./.git/refs:
+total 20
+drwxrwxr-x 5 hussein hussein 4096 Oct  3 15:15 .
+drwxrwxr-x 7 hussein hussein 4096 Oct  4 04:45 ..
+drwxrwxr-x 2 hussein hussein 4096 Oct  4 04:37 heads
+drwxrwxr-x 3 hussein hussein 4096 Oct  3 15:15 remotes
+drwxrwxr-x 2 hussein hussein 4096 Oct  3 14:23 tags
+
+./.git/refs/heads:
+total 12
+drwxrwxr-x 2 hussein hussein 4096 Oct  4 04:37 .
+drwxrwxr-x 5 hussein hussein 4096 Oct  3 15:15 ..
+-rw-rw-r-- 1 hussein hussein   41 Oct  4 04:37 main
+
+./.git/refs/remotes:
+total 12
+drwxrwxr-x 3 hussein hussein 4096 Oct  3 15:15 .
+drwxrwxr-x 5 hussein hussein 4096 Oct  3 15:15 ..
+drwxrwxr-x 2 hussein hussein 4096 Oct  4 04:37 origin
+
+./.git/refs/remotes/origin:
+total 12
+drwxrwxr-x 2 hussein hussein 4096 Oct  4 04:37 .
+drwxrwxr-x 3 hussein hussein 4096 Oct  3 15:15 ..
+-rw-rw-r-- 1 hussein hussein   41 Oct  4 04:37 main
+
+./.git/refs/tags:
+total 8
+drwxrwxr-x 2 hussein hussein 4096 Oct  3 14:23 .
+drwxrwxr-x 5 hussein hussein 4096 Oct  3 15:15 ..
+
+./projects:
+total 12
+drwxrwxr-x  3 hussein hussein 4096 Sep 30 16:54 .
+drwxrwxr-x 10 hussein hussein 4096 Oct  4 04:39 ..
+drwxrwxr-x  4 hussein hussein 4096 Oct  4 04:46 web
+
+./projects/web:
+total 16
+drwxrwxr-x 4 hussein hussein 4096 Oct  4 04:46 .
+drwxrwxr-x 3 hussein hussein 4096 Sep 30 16:54 ..
+drwxrwxr-x 2 hussein hussein 4096 Oct  4 04:46 backend
+drwxrwxr-x 2 hussein hussein 4096 Sep 30 16:54 frontend
+
+./projects/web/backend:
+total 8
+drwxrwxr-x 2 hussein hussein 4096 Oct  4 04:46 .
+drwxrwxr-x 4 hussein hussein 4096 Oct  4 04:46 ..
+
+./projects/web/frontend:
+total 8
+drwxrwxr-x 2 hussein hussein 4096 Sep 30 16:54 .
+drwxrwxr-x 4 hussein hussein 4096 Oct  4 04:46 ..
+
+./tools:
+total 8
+drwxrwxr-x  2 hussein hussein 4096 Sep 30 16:54 .
+drwxrwxr-x 10 hussein hussein 4096 Oct  4 04:39 ..
